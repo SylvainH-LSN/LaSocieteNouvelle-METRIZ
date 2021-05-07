@@ -2,6 +2,15 @@
 
 METRIZ est un logiciel libre et open source conçu pour fournir une solution de base pour la mesure de l'Empreinte Sociétale d'une Entreprise.
 
+## TELECHARGEMENT
+
+Le logiciel est téléchargeable via le lien : https://lasocietenouvelle.org/LaSocieteNouvelle-METRIZ-1.1.exe
+Aucune installation n'est requise.
+
+## FICHIERS DE DONNEES
+
+Les données saisies sont enregistrées dans un dossier "data-metriz" dans le répertoire courant où se situe l'application. Elles sont stockées au format JSON.
+
 ## NOTICE D'UTILISATION
 
 La Notice d'utilisation est organisée selon les onglets du menu.
