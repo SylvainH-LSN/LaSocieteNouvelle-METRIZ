@@ -89,5 +89,5 @@ Pour chaque indicateur, l'interface se compose de 4 onglets :
 
 #### Intensité de Production de déchets
 
-#### Intensité de Consomamtion d'Eau
+#### Intensité de Consommation d'Eau
 
